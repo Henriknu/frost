@@ -1,5 +1,5 @@
 use curve25519_dalek::constants;
-use curve25519_dalek::ristretto::RistrettoPoint;
+pub use curve25519_dalek::ristretto::RistrettoPoint;
 use curve25519_dalek::scalar::Scalar;
 use curve25519_dalek::traits::Identity;
 use keygen::KeyPair;

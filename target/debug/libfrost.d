@@ -1,0 +1,1 @@
+/home/henrik/dev/frost/target/debug/libfrost.rlib: /home/henrik/dev/frost/src/keygen.rs /home/henrik/dev/frost/src/lib.rs /home/henrik/dev/frost/src/sign.rs /home/henrik/dev/frost/target/debug/build/curve25519-dalek-b986327c0a670a85/out/basepoint_table.rs build.rs

@@ -1,4 +1,4 @@
-*NB: FORK FROM https://git.uwaterloo.ca/ckomlo/frost *
+*NB: FORK FROM https://git.uwaterloo.ca/ckomlo/frost*
 
 
 
